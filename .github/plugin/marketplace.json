@@ -1,7 +1,7 @@
 {
   "name": "playbooks",
   "metadata": {
-    "description": "Reusable software delivery guidance and Copilot workflows.",
+    "description": "Harness-agnostic software delivery playbooks and skills with an optional Copilot adapter.",
     "version": "1.0.0"
   },
   "owner": {
@@ -11,7 +11,7 @@
     {
       "name": "software-delivery-coach",
       "description": "A project-aware software delivery coach with reusable discovery, architecture, quality, and delivery skills.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "."
     }
   ]
